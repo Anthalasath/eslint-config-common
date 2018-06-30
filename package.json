@@ -1,5 +1,7 @@
 {
   "private": true,
+  "name": "eslint-config-common",
+  "description": "",
   "version": "0.0.1",
   "devDependencies": {
     "eslint": "^4.19.1",
@@ -7,13 +9,5 @@
     "eslint-plugin-import": "^2.12.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.9.1"
-  },
-  "name": "eslint-config-common",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  }
 }
