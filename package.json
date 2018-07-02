@@ -3,7 +3,7 @@
   "name": "eslint-config-common",
   "description": "",
   "version": "0.0.1",
-  "devDependencies": {
+  "dependencies": {
     "eslint": "^4.19.1",
     "eslint-config-airbnb": "^17.0.0",
     "eslint-plugin-import": "^2.12.0",
