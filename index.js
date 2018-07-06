@@ -1,7 +1,7 @@
-{
-  "extends": "airbnb",
-  "rules": {
-    "quotes": "off",
+module.exports = {
+  extends: "airbnb",
+  rules: {
+    quotes: "off",
     "consistent-return": "off",
     "no-mixed-operators": "off",
     "arrow-body-style": "off",
@@ -12,9 +12,9 @@
     "object-curly-newline": [
       "error",
       {
-        "multiline": true
+        multiline: true
       }
     ],
     "no-console": "off"
   }
-}
+};

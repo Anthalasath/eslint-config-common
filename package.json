@@ -3,6 +3,7 @@
   "name": "eslint-config-common",
   "description": "",
   "version": "0.0.1",
+  "main": "index.js",
   "dependencies": {
     "eslint": "^4.19.1",
     "eslint-config-airbnb": "^17.0.0",
