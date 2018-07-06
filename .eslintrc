@@ -9,7 +9,12 @@
     "no-param-reassign": "warn",
     "max-len": ["warn", 200],
     "arrow-parens": ["error", "as-needed"],
-    "object-curly-newline": ["error", { "multiline": true }],
+    "object-curly-newline": [
+      "error",
+      {
+        "multiline": true
+      }
+    ],
     "no-console": "off"
   }
 }
