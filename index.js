@@ -11,10 +11,8 @@ module.exports = {
     "arrow-parens": ["error", "as-needed"],
     "object-curly-newline": [
       "error",
-      {
-        multiline: true
-      }
+      { multiline: true },
     ],
-    "no-console": "off"
-  }
+    "no-console": "off",
+  },
 };
